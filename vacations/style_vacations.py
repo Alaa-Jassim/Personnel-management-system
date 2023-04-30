@@ -368,7 +368,7 @@ class StyleVacations:
 
 
 	def save_vacations_employees(self):
-		self.title = "قائمة الحضور والإنصراف بتأريخ"
+		self.title = "قائمة الإجازات بتأريخ"
 		self.date_time = str(datetime.now().date())
 
 
